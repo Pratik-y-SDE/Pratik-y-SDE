@@ -1,29 +1,28 @@
-<h1 align="center">Pratik Yadav</h1>
-
-<p align="center"><b>Full-Stack &amp; AI Developer</b></p>
-<p align="center">BCA Student · University of Allahabad</p>
-<p align="center"><code>React</code> · <code>FastAPI</code> · <code>Python</code> · <code>LLM APIs</code></p>
-
 <p align="center">
-  <img src="https://komarev.com/ghpvc/?username=Pratik-y-SDE&label=Profile%20Views&color=1f6feb&style=flat-square" alt="Profile views" />
-  <a href="https://www.linkedin.com/in/pratik-yadav-07a961398/"><img src="https://img.shields.io/badge/LinkedIn-Connect-0A66C2?style=flat-square&logo=linkedin&logoColor=white" alt="LinkedIn" /></a>
-  <img src="https://img.shields.io/badge/Open%20to-Internships-2ea44f?style=flat-square" alt="Open to internships" />
+  <img src="banner.svg" alt="Pratik Yadav - Full-Stack and AI Developer" width="100%" />
 </p>
 
----
+<p align="center">
+  <img src="https://komarev.com/ghpvc/?username=Pratik-y-SDE&label=Profile%20Views&color=ff4d8d&labelColor=1a1033&style=for-the-badge" alt="Profile views" />
+  <a href="https://www.linkedin.com/in/pratik-yadav-07a961398/"><img src="https://img.shields.io/badge/LinkedIn-Connect-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white&labelColor=1a1033" alt="LinkedIn" /></a>
+  <img src="https://img.shields.io/badge/Open%20to-Internships-5ff3ff?style=for-the-badge&labelColor=1a1033" alt="Open to internships" />
+</p>
 
-## 👨‍💻 About Me
+<p align="center"><img src="divider.svg" alt="" width="100%" /></p>
 
-- 🎓 BCA student at the **University of Allahabad**
-- 🚀 I build **full-stack and AI-powered** web apps with React, FastAPI and LLM APIs
-- 🏆 Hackathon builder: **STEMINATE Hacks 2026**, **Code for Community** (CMP HackSquad x GDG Prayagraj)
-- 🌱 Contributing to open source and looking for **full-stack / AI internships**
+## 🌸 About Me
 
-## 🛠️ Tech Stack
+<p align="center">
+  <img src="about.svg" alt="BCA student at the University of Allahabad. Builds full-stack and AI-powered web apps. Hackathons: STEMINATE Hacks 2026, Code for Community. Open to internships." width="100%" />
+</p>
+
+## ⚡ Tech Stack
 
 <p align="center">
   <img src="https://skillicons.dev/icons?i=python,js,react,vite,fastapi,java,c,mysql,git,github,vscode&perline=11" alt="Tech stack" />
 </p>
+
+<p align="center"><img src="divider.svg" alt="" width="100%" /></p>
 
 ## 🚀 Featured Projects
 
@@ -62,14 +61,14 @@
   </tr>
 </table>
 
+<p align="center"><img src="divider.svg" alt="" width="100%" /></p>
+
 ## 📊 GitHub Activity
 
 <p align="center">
-  <img src="https://streak-stats.demolab.com?user=Pratik-y-SDE&theme=tokyonight&hide_border=true" alt="GitHub streak" />
+  <img src="https://streak-stats.demolab.com?user=Pratik-y-SDE&theme=radical&hide_border=true" alt="GitHub streak" />
 </p>
 
-## 📫 Let's Connect
-
 <p align="center">
-  <a href="https://www.linkedin.com/in/pratik-yadav-07a961398/"><img src="https://img.shields.io/badge/LinkedIn-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn" /></a>
+  <img src="footer.svg" alt="Thanks for visiting" width="100%" />
 </p>
